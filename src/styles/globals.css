@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.btn-blue {
+  @apply bg-blue-500 text-white;
+}
+
